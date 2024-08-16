@@ -18,5 +18,5 @@ def shock(power):
     return
 
 def changePower(power):
-    
-    return
+    shockLevel = power
+    return shockLevel
